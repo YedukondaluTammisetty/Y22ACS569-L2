@@ -1,3 +1,9 @@
 this is file2
 this is line2
+<<<<<<< HEAD
 this is file2 in main
+=======
+this issss
+file in fb
+>>>>>>> feature-branch
+file2
